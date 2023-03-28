@@ -8,7 +8,7 @@ st.header("S20006781")
 
 DATA_URL = ('movies.csv')
 sidebar= st.sidebar
-st.sidebar.image("matricula.jpg")
+st.sidebar.image("matricula.png")
 st.sidebar.markdown("##")
 
 @st.cache_data
